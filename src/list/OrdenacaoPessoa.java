@@ -1,4 +1,4 @@
-package src;
+package src.list;
 
 import java.util.Collections;
 import java.util.List;
